@@ -1,2 +1,2 @@
 # DNA_EMAIL_SERVER
-An personal email server
+A personal email server
